@@ -2,6 +2,9 @@
 
 A comprehensive and beginner-friendly guide for securing Linux servers using **firewalld**, **UFW**, and **iptables** with explanations, live test commands, and detailed OSI model references. Secure your server step by step, with clarity on what every command and rule does!
 
+📌 **Looking for more advanced examples?**  
+Check out [fail2ban-msmtp](https://github.com/mertdogan00/fail2ban-msmtp) – this repository contains practical, real-life configurations, especially for integrating Fail2Ban with msmtp. Great source for extra security ideas and server hardening! 🔐
+
 ---
 
 ## 📚 Table of Contents
